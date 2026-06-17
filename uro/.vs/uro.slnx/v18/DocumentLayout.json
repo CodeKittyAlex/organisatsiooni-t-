@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewmodels\\accreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|solutionrelative:viewmodels\\accreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\models\\alighnedcountrysmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|solutionrelative:models\\alighnedcountrysmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewmodels\\acindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:viewmodels\\acindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewmodels\\acupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|solutionrelative:viewmodels\\acupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewmodels\\acupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:viewmodels\\acupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewmodels\\acdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|solutionrelative:viewmodels\\acdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|solutionrelative:controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FCC078-5E81-4409-BCD7-F54ABE7A4872}|uro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\data\\urocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:data\\urocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +26,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ACUpdate.cs",
-              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACUpdate.cs",
-              "RelativeDocumentMoniker": "viewModels\\ACUpdate.cs",
-              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACUpdate.cs",
-              "RelativeToolTip": "viewModels\\ACUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:26:42.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ACDelete.cs",
-              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACDelete.cs",
-              "RelativeDocumentMoniker": "viewModels\\ACDelete.cs",
-              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACDelete.cs",
-              "RelativeToolTip": "viewModels\\ACDelete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:25:46.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ACCreateViewModel.cs",
-              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACCreateViewModel.cs",
-              "RelativeDocumentMoniker": "viewModels\\ACCreateViewModel.cs",
-              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACCreateViewModel.cs",
-              "RelativeToolTip": "viewModels\\ACCreateViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:22:37.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlighnedCountrysModel.cs",
-              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\models\\AlighnedCountrysModel.cs",
-              "RelativeDocumentMoniker": "models\\AlighnedCountrysModel.cs",
-              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\models\\AlighnedCountrysModel.cs",
-              "RelativeToolTip": "models\\AlighnedCountrysModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:20:58.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AlighnedCountrysController.cs",
               "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\Controllers\\AlighnedCountrysController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlighnedCountrysController.cs",
               "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\Controllers\\AlighnedCountrysController.cs",
               "RelativeToolTip": "Controllers\\AlighnedCountrysController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwD8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-17T17:03:53.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ACUpdateViewModel.cs",
+              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "viewModels\\ACUpdateViewModel.cs",
+              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACUpdateViewModel.cs",
+              "RelativeToolTip": "viewModels\\ACUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:11:56.712Z",
+              "WhenOpened": "2026-06-17T17:26:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ACIndexViewModel.cs",
+              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACIndexViewModel.cs",
+              "RelativeDocumentMoniker": "viewModels\\ACIndexViewModel.cs",
+              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACIndexViewModel.cs",
+              "RelativeToolTip": "viewModels\\ACIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:55:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UROContext.cs",
+              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\data\\UROContext.cs",
+              "RelativeDocumentMoniker": "data\\UROContext.cs",
+              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\data\\UROContext.cs",
+              "RelativeToolTip": "data\\UROContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:34:29.519Z",
               "EditorCaption": ""
             }
           ]
