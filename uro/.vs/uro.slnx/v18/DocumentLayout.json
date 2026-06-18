@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:views\\countrys\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:views\\countrys\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:views\\countrys\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:views\\countrys\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|f:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,24 +42,76 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\update.cshtml",
+              "RelativeDocumentMoniker": "views\\countrys\\update.cshtml",
+              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\update.cshtml",
+              "RelativeToolTip": "views\\countrys\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T20:10:21.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\Index.cshtml",
+              "RelativeDocumentMoniker": "views\\countrys\\Index.cshtml",
+              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\Index.cshtml",
+              "RelativeToolTip": "views\\countrys\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T20:07:48.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\Create.cshtml",
+              "RelativeDocumentMoniker": "views\\countrys\\Create.cshtml",
+              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\Create.cshtml",
+              "RelativeToolTip": "views\\countrys\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T20:07:26.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\Delete.cshtml",
+              "RelativeDocumentMoniker": "views\\countrys\\Delete.cshtml",
+              "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\views\\countrys\\Delete.cshtml",
+              "RelativeToolTip": "views\\countrys\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T20:08:47.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AlighnedCountrysController.cs",
               "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\Controllers\\AlighnedCountrysController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlighnedCountrysController.cs",
               "ToolTip": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\Controllers\\AlighnedCountrysController.cs",
               "RelativeToolTip": "Controllers\\AlighnedCountrysController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwD8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-17T17:03:53.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ACUpdateViewModel.cs",
               "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACUpdateViewModel.cs",
               "RelativeDocumentMoniker": "viewModels\\ACUpdateViewModel.cs",
@@ -51,12 +119,11 @@
               "RelativeToolTip": "viewModels\\ACUpdateViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:26:42.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T17:26:42.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ACIndexViewModel.cs",
               "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\viewModels\\ACIndexViewModel.cs",
               "RelativeDocumentMoniker": "viewModels\\ACIndexViewModel.cs",
@@ -64,12 +131,11 @@
               "RelativeToolTip": "viewModels\\ACIndexViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:55:10.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T17:55:10.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UROContext.cs",
               "DocumentMoniker": "F:\\code\\organisatsiooni t\u00F6\u00F6\\uro\\data\\UROContext.cs",
               "RelativeDocumentMoniker": "data\\UROContext.cs",
@@ -77,8 +143,7 @@
               "RelativeToolTip": "data\\UROContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:34:29.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T17:34:29.519Z"
             }
           ]
         }

@@ -31,6 +31,22 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[F:/code/organisatsiooni töö/uro/views/countrys/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/code/organisatsiooni töö/uro/views/countrys/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/code/organisatsiooni töö/uro/views/countrys/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/code/organisatsiooni töö/uro/views/countrys/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/code/organisatsiooni töö/uro/views/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
