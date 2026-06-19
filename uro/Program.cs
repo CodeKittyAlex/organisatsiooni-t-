@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using uro.data;
+
 namespace uro
 {
     public class Program
@@ -6,11 +9,17 @@ namespace uro
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<UROContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("UROContext")));
+
+            builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
             // Add services to the container.
-            builder.Services.AddRazorPages();
+            builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+
+            
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -27,12 +36,29 @@ namespace uro
             app.UseAuthorization();
 
             app.MapStaticAssets();
-            app.MapRazorPages()
-            .WithStaticAssets();
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}")
+                .WithStaticAssets();
 
             app.Run();
         }
-    }
-
-    
+        private static void CreateDbIfNotExists(IHost host)
+        {
+            using (var scope = host.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                try
+                {
+                    var context = services.GetRequiredService<UROContext>();
+                    dbinit.Initializer(context);
+                }
+                catch (Exception ex)
+                {
+                    var logger = services.GetRequiredService<ILogger<Program>>();
+                    logger.LogError(ex, "An error occurred creating the DB.");
+                }
+            }
+        }
+    }    
 }

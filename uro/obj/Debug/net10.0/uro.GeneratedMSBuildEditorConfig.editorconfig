@@ -17,60 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
-build_property.EntryPointFilePath = 
 build_property.RootNamespace = uro
 build_property.RootNamespace = uro
-build_property.ProjectDir = F:\code\organisatsiooni töö\uro\
+build_property.ProjectDir = C:\Users\opilane\source\repos\organisatsiooni-t-\uro\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 10.0
+build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\code\organisatsiooni töö\uro
+build_property.MSBuildProjectDirectory = C:\Users\opilane\source\repos\organisatsiooni-t-\uro
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[F:/code/organisatsiooni töö/uro/views/countrys/Create.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/countrys/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/countrys/Delete.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/countrys/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/countrys/Index.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/countrys/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/countrys/update.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/countrys/update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcY291bnRyeXNcdXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/Error.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/Index.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/Privacy.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/_ViewImports.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/_ViewStart.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/code/organisatsiooni töö/uro/views/Shared/_Layout.cshtml]
+[C:/Users/opilane/source/repos/organisatsiooni-t-/uro/views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = dmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7w82lvr28f

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "uro/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "10.0.9",
           "Microsoft.EntityFrameworkCore": "10.0.9",
           "Microsoft.EntityFrameworkCore.Relational": "10.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.9",
@@ -48,6 +49,17 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/10.0.9": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "10.0.9"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
+            "assemblyVersion": "10.0.9.0",
+            "fileVersion": "10.0.926.27113"
           }
         }
       },
@@ -781,6 +793,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/10.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-66UaZgBNjRTCa1wrt60jXnpu3h6KKPjWe30BdY/RC0vRDwOtnxPliV5MbtEKu+XMm8aDw/GLEDwqg09jZTLQ5Q==",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/10.0.9",
+      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.10.0.9.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/8.0.0": {
       "type": "package",
