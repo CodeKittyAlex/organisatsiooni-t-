@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\data\\dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:controllers\\alighnedcountryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{554038F6-3709-B0B3-BD97-DFEFF9446799}|uro.csproj|c:\\users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\data\\urocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "dbinit.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\data\\dbinit.cs",
               "RelativeDocumentMoniker": "data\\dbinit.cs",
@@ -82,38 +78,37 @@
               "RelativeToolTip": "data\\dbinit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T09:20:35.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T09:20:35.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-19T09:09:30.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-19T09:07:34.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\views\\Index.cshtml",
               "RelativeDocumentMoniker": "views\\Index.cshtml",
@@ -121,25 +116,24 @@
               "RelativeToolTip": "views\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-19T09:05:19.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T09:05:19.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T08:54:38.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "update.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\views\\countrys\\update.cshtml",
               "RelativeDocumentMoniker": "views\\countrys\\update.cshtml",
@@ -147,12 +141,11 @@
               "RelativeToolTip": "views\\countrys\\update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-18T20:10:21.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T20:10:21.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\views\\countrys\\Index.cshtml",
               "RelativeDocumentMoniker": "views\\countrys\\Index.cshtml",
@@ -160,12 +153,11 @@
               "RelativeToolTip": "views\\countrys\\Index.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-18T20:07:48.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T20:07:48.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\views\\countrys\\Create.cshtml",
               "RelativeDocumentMoniker": "views\\countrys\\Create.cshtml",
@@ -173,12 +165,11 @@
               "RelativeToolTip": "views\\countrys\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-18T20:07:26.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T20:07:26.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\views\\countrys\\Delete.cshtml",
               "RelativeDocumentMoniker": "views\\countrys\\Delete.cshtml",
@@ -186,25 +177,11 @@
               "RelativeToolTip": "views\\countrys\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-18T20:08:47.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T20:08:47.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AlighnedCountrysController.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\Controllers\\AlighnedCountrysController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AlighnedCountrysController.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\Controllers\\AlighnedCountrysController.cs",
-              "RelativeToolTip": "Controllers\\AlighnedCountrysController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwD8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:03:53.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ACUpdateViewModel.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\viewModels\\ACUpdateViewModel.cs",
               "RelativeDocumentMoniker": "viewModels\\ACUpdateViewModel.cs",
@@ -212,12 +189,11 @@
               "RelativeToolTip": "viewModels\\ACUpdateViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:26:42.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T17:26:42.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ACIndexViewModel.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\viewModels\\ACIndexViewModel.cs",
               "RelativeDocumentMoniker": "viewModels\\ACIndexViewModel.cs",
@@ -225,12 +201,11 @@
               "RelativeToolTip": "viewModels\\ACIndexViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:55:10.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T17:55:10.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UROContext.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\organisatsiooni-t-\\uro\\data\\UROContext.cs",
               "RelativeDocumentMoniker": "data\\UROContext.cs",
@@ -238,8 +213,7 @@
               "RelativeToolTip": "data\\UROContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T17:34:29.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T17:34:29.519Z"
             }
           ]
         }
